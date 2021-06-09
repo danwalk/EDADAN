@@ -10,6 +10,7 @@ The EDA is based on collecting scores and betting results from 3 different sport
 
 ### NBA
 https://masseyratings.com/nba/games
+
 https://www.oddsportal.com/basketball/usa/nba/
 
 ### NFL
@@ -18,7 +19,7 @@ https://www.aussportsbetting.com/data/historical-nfl-results-and-odds-data/
 ### Football
 http://www.football-data.co.uk/
 
-Using webscraping and also from importing the CSV files available, the data was then cleaned and sent to a database in mysql calling the corresponding funcion from main.ipynb.
+Using webscraping and also from importing the CSV files available, the data was then cleaned and sent to a database in mysql calling the corresponding function from main.ipynb.
 
 ### The cleaning process includes:
 
